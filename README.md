@@ -17,6 +17,6 @@ Email: bgvelesiani2@gmail.com
   * Profile (Edit, Profile image actions)
 
 
-# სწავლა
+# სწავლა :mortar_board:
 * საქართველოს ტექნიკურ უნივერსიტეტი, "ენერგეტიკისა და ელექტრო-ინჟინერიის" ფაკულტეტი. 2018 - present
 * TBC android bootcamp 2020 march - 2020 june
