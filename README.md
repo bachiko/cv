@@ -3,14 +3,18 @@
 <a href="https://www.facebook.com/bacho.gvelesiani/">Facebook</a><br />
 Email: bgvelesiani2@gmail.com
 
+# Summary :computer:
+ცნობისმოყვარე, განვითარებაზე ორიენტირებული ჯუნიორ ანდროიდ დეველოპერი. 
+// აქ ჯერ ვერ მოვიფიქრე რა დავწერო :tears:
+
 # სამუშაო გამოცდილება
 
-*TBC android bootcamp - დავალებები, პატარ-პატარა პროექტები. თუმცა გარდა ტექნიკური სქილებისა, თიბისის ბუთქემფმა გუნდური მუშაობა, დროის სწორად გადანაწილება და დავალებების მოცემულ დროში შესრულების უნარი გამომიმუშავა.
+**TBC android bootcamp** - დავალებები, პატარ-პატარა პროექტები. თუმცა გარდა ტექნიკური სქილებისა, თიბისის ბუთქემფმა გუნდური მუშაობა, დროის სწორად გადანაწილება და დავალებების მოცემულ დროში შესრულების უნარი გამომიმუშავა.
 
-*<a href="https://github.com/TBC-final-project/TBCFinal">PostIt</a>  სოციალური ქსელის პროექტი
-  * Firebase authentication
-  * 
-
+**<a href="https://github.com/TBC-final-project/TBCFinal">PostIt</a>**  სოციალური ქსელის პროექტი
+  * Firebase authentication (Login, Register)
+  * Posts (CRUD operations)
+  * Profile (Edit, Profile image actions)
 
 
 # სწავლა
