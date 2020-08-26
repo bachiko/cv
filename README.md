@@ -3,7 +3,7 @@
 <a href="https://www.facebook.com/bacho.gvelesiani/">Facebook</a><br />
 Email: bgvelesiani2@gmail.com
 
-# Summary :computer:
+# შეჯამება :computer:
 ცნობისმოყვარე, განვითარებაზე ორიენტირებული ჯუნიორ ანდროიდ დეველოპერი. <br />
 // აქ ჯერ ვერ მოვიფიქრე რა დავწერო :grinning:
 
