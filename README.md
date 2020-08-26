@@ -29,7 +29,6 @@ Email: bgvelesiani2@gmail.com
   * Firestore
   * Room
   * Coroutines <br />
- ლინკს დავამატებ რომ მოვრჩები აპპს
 
 # სწავლა
 * TBC android bootcamp 2020 march - 2020 june
