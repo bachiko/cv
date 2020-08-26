@@ -3,7 +3,7 @@
 <a href="https://www.facebook.com/bacho.gvelesiani/">Facebook</a><br />
 Email: bgvelesiani2@gmail.com
 
-# შეჯამება :computer:
+# შეჯამება
 ცნობისმოყვარე, დაინტერესებული აპლიკაციის არქიტექტურით, სიახლეების სწრაფად ათვისების უნარის მქონე,  განვითარებაზე ორიენტირებული ანდროიდ დეველოპერი. <br />
 
 # სამუშაო გამოცდილება
@@ -31,7 +31,7 @@ Email: bgvelesiani2@gmail.com
   * Coroutines <br />
  ლინკს დავამატებ რომ მოვრჩები აპპს
 
-# სწავლა :mortar_board:
+# სწავლა
 * TBC android bootcamp 2020 march - 2020 june
 * საქართველოს ტექნიკურ უნივერსიტეტი, "ენერგეტიკისა და ელექტრო-ინჟინერიის" ფაკულტეტი. 2018 - present
 
