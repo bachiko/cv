@@ -1,6 +1,6 @@
-# ბაჩო (ავთანდილ) გველესიანი 
-<a href="https://github.com/bachiko">Github</a>
-<a href="https://www.facebook.com/bacho.gvelesiani/">Facebook</a>
+# ბაჩო (ავთანდილ) გველესიანი
+<a href="https://github.com/bachiko">Github</a><br />
+<a href="https://www.facebook.com/bacho.gvelesiani/">Facebook</a><br />
 Email: bgvelesiani2@gmail.com
 
 # სამუშაო გამოცდილება
@@ -14,5 +14,5 @@ Email: bgvelesiani2@gmail.com
 
 
 # სწავლა
-საქართველოს ტექნიკურ უნივერსიტეტში, "ენერგეტიკისა და ელექტრო-ინჟინერიის" ფაკულტეტი. 2018 - 
-TBC android bootcamp 2020 march - 2020 june
+* საქართველოს ტექნიკურ უნივერსიტეტი, "ენერგეტიკისა და ელექტრო-ინჟინერიის" ფაკულტეტი. 2018 - present
+* TBC android bootcamp 2020 march - 2020 june
