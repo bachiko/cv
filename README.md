@@ -1,10 +1,15 @@
-# ბაჩო (ავთანდილ) გველესიანი  Github: https://github.com/bachiko 
-# Email bgvelesiani2@gmail.com
+# ბაჩო (ავთანდილ) გველესიანი 
+<a href="https://github.com/bachiko">Github</a>
+<a href="https://www.facebook.com/bacho.gvelesiani/">Facebook</a>
+Email: bgvelesiani2@gmail.com
 
 # სამუშაო გამოცდილება
-TBC android bootcamp - დავალებები, პატარ-პატარა პროექტები. თუმცა გარდა ტექნიკური სქილებისა, თიბისის ბუთქემფმა გუნდური მუშაობა, დროის სწორად გადანაწილება და დავალებების მოცემულ დროში შესრულების უნარი გამომიმუშავა.
 
-<a href="https://github.com/TBC-final-project/TBCFinal">PostIt</a>  სოციალური ქსელის პროექტი, სადაც უმეტესად ავტორიზაცია/რეგისტრაციაზე, პოსტებზე და პროფილზე ვიმუშავე. პროექტში გამოყენებულია Firebase, Repository, კორუტინები, ფლოუ და სხვა.
+*TBC android bootcamp - დავალებები, პატარ-პატარა პროექტები. თუმცა გარდა ტექნიკური სქილებისა, თიბისის ბუთქემფმა გუნდური მუშაობა, დროის სწორად გადანაწილება და დავალებების მოცემულ დროში შესრულების უნარი გამომიმუშავა.
+
+*<a href="https://github.com/TBC-final-project/TBCFinal">PostIt</a>  სოციალური ქსელის პროექტი
+  * Firebase authentication
+  * 
 
 
 
