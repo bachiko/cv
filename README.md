@@ -1,6 +1,6 @@
 # ბაჩო (ავთანდილ) გველესიანი
-<a href="https://github.com/bachiko">Github</a>
-<a href="https://www.facebook.com/bacho.gvelesiani/">Facebook</a>
+<a href="https://github.com/bachiko">Github</a>  
+<a href="https://www.facebook.com/bacho.gvelesiani/">Facebook</a>  
 Email: bgvelesiani2@gmail.com
 
 # შეჯამება
