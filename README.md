@@ -23,7 +23,7 @@ Email: bgvelesiani2@gmail.com
   * Posts (CRUD operations)
   * Profile (Edit, Profile image actions)
   
-**ToDo - Todo app** - თუდუ ლისთ აპლიკაცია
+**<a href="https://github.com/bachiko/Todo_Room">ToDo - Todo app</a>** - თუდუ ლისთ აპლიკაცია
   * Repository
   * Firebase authentication
   * Firestore
