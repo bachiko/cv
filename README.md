@@ -1,22 +1,23 @@
-# ბაჩო (ავთანდილ) გველესიანი
+# Avtandil (Bacho) Gvelesiani
 <a href="https://github.com/bachiko">Github</a>  
 <a href="https://www.facebook.com/bacho.gvelesiani/">Facebook</a>  
 Email: bgvelesiani2@gmail.com
 
-# შეჯამება
-ცნობისმოყვარე, დაინტერესებული აპლიკაციის არქიტექტურით, სიახლეების სწრაფად ათვისების უნარის მქონე,  განვითარებაზე ორიენტირებული ანდროიდ დეველოპერი. <br />
+# Summary
+Curious, Interested in application architecture, Having the ability to absorb new things
+quickly, Development-oriented Android Developer, with excellent communication skills. <br />
 
-# სამუშაო გამოცდილება
+# Work Experience
 
 **TBC android bootcamp**
-  * დავალებები
-  * პროექტები
+  * Homework
+  * Projects
   
- **არატექნიკური უნარჩვევები:**<br />
-  * გუნდური მუშაობა
-  * დროის სწორად გადანაწილება
-  * დავალებების მოცემულ დროში შესრულების უნარი
-  * სწორი კომუნიკაცია
+ **Soft Skills:**<br />
+  * Teamwork
+  * Time management
+  * Excellent communication
+  * Can work under the pressure of deadlines
 
 **<a href="https://github.com/TBC-final-project/TBCFinal">PostIt</a>**  სოციალური ქსელის პროექტი
   * Firebase authentication (Login, Register)
